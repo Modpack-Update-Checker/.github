@@ -2,7 +2,7 @@
 
 ### Version support
 
-| Minecraft | Fabric | Forge | Neoforge | Quilt |
+| Minecraft | Fabric | Forge | NeoForge | Quilt |
 |-----------|--------|-------|----------|-------|
 | 1.16.5    | ✅      | ✅     | ❌        | ❌*    |
 | 1.18.2    | ✅      | ✅     | ❌        | ❌*    |
