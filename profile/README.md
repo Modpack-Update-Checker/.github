@@ -11,7 +11,7 @@
 | 1.19.4    | ✅      | ❌     | ❌        | ✅     |
 | 1.20      | ✅      | ❌     | ❌        | ❌*    |
 | 1.20.1    | ✅      | ✅     | ❌**      | ✅     |
-| 1.20.2    | ❌      | ❌     | ❌        | ❌     |
+| 1.20.2    | ✅      | ❌     | ❌        | ❌     |
 
 <sup><sub>*Fabric versions work on Quilt. **Forge versions work on NeoForge.</sub></sup>
 
