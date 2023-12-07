@@ -12,8 +12,9 @@
 | 1.20      | ✅      | ❌     | ❌        | ❌*    |
 | 1.20.1    | ✅      | ✅     | ❌**      | ✅     |
 | 1.20.2    | ✅      | ❌     | ❌        | ❌     |
+| 1.20.3    | ✅      | 🚧     | ✅        | ❌     |
 
-<sup><sub>*Fabric versions work on Quilt. **Forge versions work on NeoForge.</sub></sup>
+<sup><sub>*Fabric versions work on Quilt. In 1.20.1, Forge mods work on NeoForge.</sub></sup>
 
 ### Usage
 WIP
